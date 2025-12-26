@@ -1,4 +1,4 @@
-# MCAS-RTDETR  
+# MSCA-RTDETR  
 
 MSCA-RTDETR: Multi-Scale Context-Aligned Real-Time DETR for Fabric Defect Detection
 
